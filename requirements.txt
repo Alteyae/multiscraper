@@ -1,5 +1,8 @@
-fastapi==0.95.2
-pydantic==1.10.8
-requests==2.31.0
-beautifulsoup4==4.12.2
-uvicorn
+fastapi
+pydantic
+requests
+beautifulsoup4
+typing-extensions
+simplejson
+regex
+furl
